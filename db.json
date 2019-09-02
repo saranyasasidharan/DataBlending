@@ -1,6 +1,6 @@
 [
         {
-           // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
+          
            "id":1,
             "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -10,7 +10,7 @@
             "FAMILY": "014PES1X"
         },
         {
-           // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
+          
            "id":2,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -20,7 +20,6 @@
             "FAMILY": "014PES1X"
         },
         {
-           // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
            "id":3,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "DEC2010-02BV",
@@ -30,7 +29,6 @@
             "FAMILY": "014PES1X"
         },
         {
-            //"Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
             "id":4,
             "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -40,7 +38,7 @@
             "FAMILY": "014PES1X"
         },
         {
-          //  "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
+         
           "id":5,
           "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -50,48 +48,44 @@
             "FAMILY": "014PES1X"
         },
         {
-           // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
+           
            "id":6,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
-            "PN": "EEC2010-02BV",
-            "Relation": "direct family",
-            "RelatedPN": "EEC2000-07BX",
-            "Description": "ALL CONTROL ENGINE ELECTRONIC",
-            "FAMILY": "014PES1X"
+           "PN": "EEC2010-02BV",
+           "Relation": "direct family",
+           "RelatedPN": "EEC2000-07BX",
+           "Description": "ALL CONTROL ENGINE ELECTRONIC",
+           "FAMILY": "014PES1X"
         },
         {
-           // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
            "id":7,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
-            "PN": "EEC2010-02BV",
-            "Relation": "direct family",
-            "RelatedPN": "EEC2000-07BX",
-            "Description": "CONTROL ENGINE ELECTRONIC",
-            "FAMILY": "114PES1X"
+           "PN": "EEC2010-02BV",
+           "Relation": "direct family",
+           "RelatedPN": "EEC2000-07BX",
+           "Description": "CONTROL ENGINE ELECTRONIC",
+           "FAMILY": "114PES1X"
         },
         {
-          //  "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
           "id":8,
           "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
-            "PN": "EEC2010-02BV",
-            "Relation": "direct family",
-            "RelatedPN": "EEC2000-07BX",
-            "Description": "CONTROL ENGINE ELECTRONIC",
-            "FAMILY": "014PES1X"
+          "PN": "EEC2010-02BV",
+          "Relation": "direct family",
+          "RelatedPN": "EEC2000-07BX",
+          "Description": "CONTROL ENGINE ELECTRONIC",
+          "FAMILY": "014PES1X"
         },
         {
-          //  "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
           "id":9,
           "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
-            "PN": "EEC2010-02BV",
-            "Relation": "direct family",
-            "RelatedPN": "EEC2000-07BX",
-            "Description": "CONTROL ENGINE ELECTRONIC",
-            "FAMILY": "014PES1X"
+          "PN": "EEC2010-02BV",
+          "Relation": "direct family",
+          "RelatedPN": "EEC2000-07BX",
+          "Description": "CONTROL ENGINE ELECTRONIC",
+          "FAMILY": "014PES1X"
         },
         {
             "id":10,
-            //"Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
             "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
             "Relation": "direct family",
@@ -101,17 +95,6 @@
         },
         {
             "id":11,
-          //  "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
-          "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
-            "PN": "EEC2010-02BV",
-            "Relation": "direct family",
-            "RelatedPN": "EEC2000-07BX",
-            "Description": "CONTROL ENGINE ELECTRONIC",
-            "FAMILY": "014PES1X"
-        },
-        {
-            "id":12,
-            //"Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
             "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
             "Relation": "direct family",
@@ -120,9 +103,17 @@
             "FAMILY": "014PES1X"
         },
         {
-            "id":13,
-          // "Check": "<input label='' type='checkbox' id='checkbox6'  width='10' height='10'/>",
-          "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
+            "id":12,
+            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
+            "PN": "EEC2010-02BV",
+            "Relation": "direct family",
+            "RelatedPN": "EEC2000-07BX",
+            "Description": "CONTROL ENGINE ELECTRONIC",
+            "FAMILY": "014PES1X"
+        },
+        {
+            "id":13,         
+            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
             "Relation": "direct family",
             "RelatedPN": "EEC2000-07BX",
