@@ -1,6 +1,5 @@
 [
         {
-          
            "id":1,
             "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -10,7 +9,6 @@
             "FAMILY": "014PES1X"
         },
         {
-          
            "id":2,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -38,7 +36,6 @@
             "FAMILY": "014PES1X"
         },
         {
-         
           "id":5,
           "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
             "PN": "EEC2010-02BV",
@@ -48,7 +45,6 @@
             "FAMILY": "014PES1X"
         },
         {
-           
            "id":6,
            "REF_ONLY": "<select  id='ddl1'  width='30' height='10'/>",
            "PN": "EEC2010-02BV",
@@ -119,5 +115,5 @@
             "RelatedPN": "EEC2000-07BX",
             "Description": "CONTROL ENGINE ELECTRONIC",
             "FAMILY": "014PES1X"
-        },
+        }
 	]
